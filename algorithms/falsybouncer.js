@@ -2,10 +2,6 @@
 function bouncer(arr) {
   // Don't show a false ID to this bouncer.
   return arr.filter(Boolean);
-
-  // const result = arr.filter(item => item !== false, null, 0, "", undefined, NaN);
-  //
-  // return result;
 }
 
 console.log(bouncer([7, "ate", "", false, 9]));
