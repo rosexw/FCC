@@ -44,7 +44,7 @@ class MyForm extends React.Component {
   };
   
 
-// React: Create a Controlled Form 29
+// React: Create a Controlled Form #29
 // The last challenge showed that React can control the internal state for certain elements like input and textarea, which makes them controlled components. This applies to other form elements as well, including the regular HTML form element.
 
 // The MyForm component is set up with an empty form with a submit handler. The submit handler will be called when the form is submitted.
